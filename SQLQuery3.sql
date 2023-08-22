@@ -1,1 +1,1 @@
-Select CustomerName, Notes From dbo.Customers
+Select top(3) * From KCC.dbo.Customers
