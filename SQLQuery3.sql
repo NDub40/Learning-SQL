@@ -1,0 +1,1 @@
+Select CustomerName, Notes From dbo.Customers
